@@ -1,0 +1,109 @@
+﻿Month,Mode of Transport,Number
+January,Walking,12461
+January,Bicycle,341203
+January,Car or Van,540859
+January,Motorcycle,54412
+January,Bus,456304
+January,London Underground,285574
+January,Surface Rail,40178
+January,Taxi,5292
+January,Other,55155
+February,Walking,67639
+February,Bicycle,72207
+February,Car or Van,63871
+February,Motorcycle,70845
+February,Bus,64244
+February,London Underground,68478
+February,Surface Rail,70880
+February,Taxi,9719
+February,Other,40872
+March,Walking,49432
+March,Bicycle,48182
+March,Car or Van,81820
+March,Motorcycle,64947
+March,Bus,92695
+March,London Underground,85880
+March,Surface Rail,11417
+March,Taxi,6131
+March,Other,7151
+April,Walking,85686
+April,Bicycle,72689
+April,Car or Van,51344
+April,Motorcycle,56558
+April,Bus,51658
+April,London Underground,50461
+April,Surface Rail,65823
+April,Taxi,7493
+April,Other,8363
+May,Walking,99875
+May,Bicycle,90415
+May,Car or Van,70172
+May,Motorcycle,67415
+May,Bus,51414
+May,London Underground,44394
+May,Surface Rail,49387
+May,Taxi,52294
+May,Other,75786
+June,Walking,80557
+June,Bicycle,89070
+June,Car or Van,10525
+June,Motorcycle,18318
+June,Bus,10552
+June,London Underground,10586
+June,Surface Rail,90799
+June,Taxi,7154
+June,Other,5798
+July,Walking,58366
+July,Bicycle,54927
+July,Car or Van,70138
+July,Motorcycle,83854
+July,Bus,89996
+July,London Underground,10397
+July,Surface Rail,11348
+July,Taxi,1042
+July,Other,9034
+August,Walking,88537
+August,Bicycle,68451
+August,Car or Van,60816
+August,Motorcycle,58632
+August,Bus,59764
+August,London Underground,66448
+August,Surface Rail,76330
+August,Taxi,10136
+August,Other,9632
+September,Walking,118842
+September,Bicycle,11583
+September,Car or Van,105303
+September,Motorcycle,94514
+September,Bus,71100
+September,London Underground,65897
+September,Surface Rail,63849
+September,Taxi,61855
+September,Other,81975
+October,Walking,91771
+October,Bicycle,99260
+October,Car or Van,109829
+October,Motorcycle,113183
+October,Bus,99419
+October,London Underground,93475
+October,Surface Rail,97368
+October,Taxi,79208
+October,Other,53408
+November,Walking,64590
+November,Bicycle,57642
+November,Car or Van,60492
+November,Motorcycle,82473
+November,Bus,111268
+November,London Underground,118164
+November,Surface Rail,125310
+November,Taxi,10581
+November,Other,10082
+December,Walking,97829
+December,Bicycle,73802
+December,Car or Van,58543
+December,Motorcycle,68579
+December,Bus,69891
+December,London Underground,79227
+December,Surface Rail,89014
+December,Taxi,10065
+December,Other,10064
