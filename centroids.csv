@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 eer16nm,x,y
 North East,-1.9061,55.0188
 North West,-2.7255,54.0548
@@ -11,17 +10,3 @@ South East,-0.5269,51.2931
 South West,-3.1357,50.9987
 Scotland,-4.0279,56.6875
 Wales,-3.744,52.2977
-=======
-eer16nm,x,y
-North East,-1.9061,55.0188
-North West,-2.7255,54.0548
-Yorkshire and The Humber,-1.273,53.9867
-East Midlands,-0.8073,52.9255
-West Midlands,-2.2721,52.4791
-Eastern,0.5424,52.2504
-London,-0.1119,51.5003
-South East,-0.5269,51.2931
-South West,-3.1357,50.9987
-Scotland,-4.0279,56.6875
-Wales,-3.744,52.2977
->>>>>>> Stashed changes
