@@ -1,109 +1,109 @@
 ﻿Month,modeOfTransport,numberOfCases
-January,Walking,12461
-January,Bicycle,341203
-January,Car or Van,540859
-January,Motorcycle,54412
-January,Bus,456304
-January,London Underground,285574
-January,Surface Rail,40178
-January,Taxi,5292
-January,Other,55155
-February,Walking,67639
-February,Bicycle,72207
-February,Car or Van,63871
-February,Motorcycle,70845
-February,Bus,64244
-February,London Underground,68478
-February,Surface Rail,70880
-February,Taxi,9719
-February,Other,40872
-March,Walking,49432
-March,Bicycle,48182
-March,Car or Van,81820
-March,Motorcycle,64947
-March,Bus,92695
-March,London Underground,85880
-March,Surface Rail,11417
-March,Taxi,6131
-March,Other,7151
-April,Walking,85686
-April,Bicycle,72689
-April,Car or Van,51344
-April,Motorcycle,56558
-April,Bus,51658
-April,London Underground,50461
-April,Surface Rail,65823
-April,Taxi,7493
-April,Other,8363
-May,Walking,99875
-May,Bicycle,90415
-May,Car or Van,70172
-May,Motorcycle,67415
-May,Bus,51414
-May,London Underground,44394
-May,Surface Rail,49387
-May,Taxi,52294
-May,Other,75786
-June,Walking,80557
-June,Bicycle,89070
-June,Car or Van,10525
-June,Motorcycle,18318
-June,Bus,10552
-June,London Underground,10586
-June,Surface Rail,90799
-June,Taxi,7154
-June,Other,5798
-July,Walking,58366
-July,Bicycle,54927
-July,Car or Van,70138
-July,Motorcycle,83854
-July,Bus,89996
-July,London Underground,10397
-July,Surface Rail,11348
-July,Taxi,1042
-July,Other,9034
-August,Walking,88537
-August,Bicycle,68451
-August,Car or Van,60816
-August,Motorcycle,58632
-August,Bus,59764
-August,London Underground,66448
-August,Surface Rail,76330
-August,Taxi,10136
-August,Other,9632
-September,Walking,118842
-September,Bicycle,11583
-September,Car or Van,105303
-September,Motorcycle,94514
-September,Bus,71100
-September,London Underground,65897
-September,Surface Rail,63849
-September,Taxi,61855
-September,Other,81975
-October,Walking,91771
-October,Bicycle,99260
-October,Car or Van,109829
-October,Motorcycle,113183
-October,Bus,99419
-October,London Underground,93475
-October,Surface Rail,97368
-October,Taxi,79208
-October,Other,53408
-November,Walking,64590
-November,Bicycle,57642
-November,Car or Van,60492
-November,Motorcycle,82473
-November,Bus,111268
-November,London Underground,118164
-November,Surface Rail,125310
-November,Taxi,10581
-November,Other,10082
-December,Walking,97829
-December,Bicycle,73802
-December,Car or Van,58543
-December,Motorcycle,68579
-December,Bus,69891
-December,London Underground,79227
-December,Surface Rail,89014
-December,Taxi,10065
-December,Other,10064
+01-Jan,Walking,12461
+01-Jan,Bicycle,341203
+01-Jan,Car or Van,540859
+01-Jan,Motorcycle,54412
+01-Jan,Bus,456304
+01-Jan,London Underground,285574
+01-Jan,Surface Rail,40178
+01-Jan,Taxi,5292
+01-Jan,Other,55155
+02-Feb,Walking,67639
+02-Feb,Bicycle,72207
+02-Feb,Car or Van,63871
+02-Feb,Motorcycle,70845
+02-Feb,Bus,64244
+02-Feb,London Underground,68478
+02-Feb,Surface Rail,70880
+02-Feb,Taxi,9719
+02-Feb,Other,40872
+03-Mar,Walking,49432
+03-Mar,Bicycle,48182
+03-Mar,Car or Van,81820
+03-Mar,Motorcycle,64947
+03-Mar,Bus,92695
+03-Mar,London Underground,85880
+03-Mar,Surface Rail,11417
+03-Mar,Taxi,6131
+03-Mar,Other,7151
+04-Apr,Walking,85686
+04-Apr,Bicycle,72689
+04-Apr,Car or Van,51344
+04-Apr,Motorcycle,56558
+04-Apr,Bus,51658
+04-Apr,London Underground,50461
+04-Apr,Surface Rail,65823
+04-Apr,Taxi,7493
+04-Apr,Other,8363
+05-May,Walking,99875
+05-May,Bicycle,90415
+05-May,Car or Van,70172
+05-May,Motorcycle,67415
+05-May,Bus,51414
+05-May,London Underground,44394
+05-May,Surface Rail,49387
+05-May,Taxi,52294
+05-May,Other,75786
+06-Jun,Walking,80557
+06-Jun,Bicycle,89070
+06-Jun,Car or Van,10525
+06-Jun,Motorcycle,18318
+06-Jun,Bus,10552
+06-Jun,London Underground,10586
+06-Jun,Surface Rail,90799
+06-Jun,Taxi,7154
+06-Jun,Other,5798
+07-Jul,Walking,58366
+07-Jul,Bicycle,54927
+07-Jul,Car or Van,70138
+07-Jul,Motorcycle,83854
+07-Jul,Bus,89996
+07-Jul,London Underground,10397
+07-Jul,Surface Rail,11348
+07-Jul,Taxi,1042
+07-Jul,Other,9034
+08-Aug,Walking,88537
+08-Aug,Bicycle,68451
+08-Aug,Car or Van,60816
+08-Aug,Motorcycle,58632
+08-Aug,Bus,59764
+08-Aug,London Underground,66448
+08-Aug,Surface Rail,76330
+08-Aug,Taxi,10136
+08-Aug,Other,9632
+09-Sep,Walking,118842
+09-Sep,Bicycle,11583
+09-Sep,Car or Van,105303
+09-Sep,Motorcycle,94514
+09-Sep,Bus,71100
+09-Sep,London Underground,65897
+09-Sep,Surface Rail,63849
+09-Sep,Taxi,61855
+09-Sep,Other,81975
+10-Oct,Walking,91771
+10-Oct,Bicycle,99260
+10-Oct,Car or Van,109829
+10-Oct,Motorcycle,113183
+10-Oct,Bus,99419
+10-Oct,London Underground,93475
+10-Oct,Surface Rail,97368
+10-Oct,Taxi,79208
+10-Oct,Other,53408
+11-Nov,Walking,64590
+11-Nov,Bicycle,57642
+11-Nov,Car or Van,60492
+11-Nov,Motorcycle,82473
+11-Nov,Bus,111268
+11-Nov,London Underground,118164
+11-Nov,Surface Rail,125310
+11-Nov,Taxi,10581
+11-Nov,Other,10082
+12-Dec,Walking,97829
+12-Dec,Bicycle,73802
+12-Dec,Car or Van,58543
+12-Dec,Motorcycle,68579
+12-Dec,Bus,69891
+12-Dec,London Underground,79227
+12-Dec,Surface Rail,89014
+12-Dec,Taxi,10065
+12-Dec,Other,10064
